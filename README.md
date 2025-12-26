@@ -1,16 +1,45 @@
-# flutter_app
+📱 Smart Attendance System
 
-A new Flutter project.
+A Flutter + Firebase based Smart Attendance System designed for academic use to manage student attendance digitally.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+Role-based system (Teacher / Student)
 
-A few resources to get you started if this is your first Flutter project:
+Firebase Authentication (Email & Password)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Student attendance marking
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Teacher attendance viewing
+
+Real-time data using Firebase Firestore
+
+Web & Android compatible
+
+🔄 App Flow
+
+App starts → Role Selection Screen
+
+User selects role (Teacher / Student)
+
+Role-based Home Screen opens
+
+Login using Firebase Authentication
+
+Student → Mark attendance
+
+Teacher → View attendance records
+
+🛠 Tech Stack
+
+Flutter
+
+Dart
+
+Firebase Authentication
+
+Cloud Firestore
+
+Material UI
+
+
