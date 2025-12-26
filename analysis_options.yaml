@@ -1,0 +1,10 @@
+# This file configures the analyzer, which statically analyzes Dart code to
+# check for errors, warnings, and lints.
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Customize rules here:
+    avoid_print: false       # Allows using print() without warnings
+    prefer_single_quotes: true  # Forces single quotes for strings
