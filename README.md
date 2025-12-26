@@ -1,4 +1,4 @@
-📱 Smart Attendance System
+> **📱 Smart Attendance System**
 
 A Flutter + Firebase based Smart Attendance System designed for academic use to manage student attendance digitally.
 
@@ -16,7 +16,7 @@ Real-time data using Firebase Firestore
 
 Web & Android compatible
 
-🔄 App Flow
+**🔄 App Flow**
 
 App starts → Role Selection Screen
 
@@ -30,7 +30,7 @@ Student → Mark attendance
 
 Teacher → View attendance records
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 Flutter
 
@@ -41,5 +41,6 @@ Firebase Authentication
 Cloud Firestore
 
 Material UI
+
 
 
